@@ -1,0 +1,27 @@
+{
+  "name": "busca-filmes",
+  "version": "1.0.0",
+  "description": "Sistema de filmes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devrbmarques/Busca-e-Recomenda-o-de-Filmes.git"
+  },
+  "keywords": [
+    "movies",
+    "node",
+    "code"
+  ],
+  "author": "Robson Borges Marques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devrbmarques/Busca-e-Recomenda-o-de-Filmes/issues"
+  },
+  "homepage": "https://github.com/devrbmarques/Busca-e-Recomenda-o-de-Filmes#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
